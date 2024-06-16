@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-05T13:53:24 IST" name="Default suite" finished-at="2024-06-05T13:55:10 IST" duration-ms="106031">
+    <groups>
+    </groups>
+    <test started-at="2024-06-05T13:53:24 IST" name="Default test" finished-at="2024-06-05T13:55:10 IST" duration-ms="106031">
+      <class name="udemy.Lec_51_Ecommerce_Handle_InBuiltApp_Browser">
+        <test-method is-config="true" signature="cofigureAppium()[pri:0, instance:udemy.Lec_51_Ecommerce_Handle_InBuiltApp_Browser@206a70ef]" started-at="2024-06-05T13:53:24 IST" name="cofigureAppium" finished-at="2024-06-05T13:53:57 IST" duration-ms="32709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigureAppium -->
+        <test-method signature="verifyCartProduct()[pri:0, instance:udemy.Lec_51_Ecommerce_Handle_InBuiltApp_Browser@206a70ef]" started-at="2024-06-05T13:53:57 IST" name="verifyCartProduct" finished-at="2024-06-05T13:55:09 IST" duration-ms="71657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:udemy.Lec_51_Ecommerce_Handle_InBuiltApp_Browser@206a70ef]" started-at="2024-06-05T13:55:09 IST" name="tearDown" finished-at="2024-06-05T13:55:10 IST" duration-ms="1551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- udemy.Lec_51_Ecommerce_Handle_InBuiltApp_Browser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
